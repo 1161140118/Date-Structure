@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510646253 source:f:\c\dosbox\disk_c\ds_test1_1_modify\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

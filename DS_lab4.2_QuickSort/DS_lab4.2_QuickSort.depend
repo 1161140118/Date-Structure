@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1514550674 source:f:\c\dosbox\disk_c\ds_lab4.2_quicksort\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+

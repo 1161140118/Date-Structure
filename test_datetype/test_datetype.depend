@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508509051 source:f:\c\dosbox\disk_c\test_datetype\main.c
+	<stdio.h>
+	<stdlib.h>
+

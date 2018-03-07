@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1511784737 source:f:\c\dosbox\disk_c\ds_priorityqueue\dfqueue.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1511883307 source:f:\c\dosbox\disk_c\ds_priorityqueue\main.cpp
+	<iostream>
+	<algorithm>
+	<stdio.h>
+	<stdlib.h>
+
+1511784971 f:\c\dosbox\disk_c\ds_priorityqueue\dfqueue.h
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508493774 source:f:\c\dosbox\disk_c\test_islittleendian\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513266617 source:f:\c\dosbox\disk_c\ds_jobscheduling\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

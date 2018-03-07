@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1512579584 source:f:\c\dosbox\disk_c\ds_mazeproblem\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<queue>
+	<string.h>
+

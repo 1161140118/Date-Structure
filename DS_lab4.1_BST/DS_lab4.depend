@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1513436539 source:f:\c\dosbox\disk_c\ds_lab4\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1513438835 source:f:\c\dosbox\disk_c\ds_lab4.1_bst\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

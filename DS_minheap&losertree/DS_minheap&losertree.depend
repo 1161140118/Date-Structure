@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1515051504 source:f:\c\dosbox\disk_c\ds_minheap&losertree\main.cpp
+	<iostream>
+	<algorithm>
+	<ctime>
+	<stdio.h>
+	<stdlib.h>
+

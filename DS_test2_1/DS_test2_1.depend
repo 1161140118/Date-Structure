@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1511614958 source:f:\c\dosbox\disk_c\ds_test2_1\main.cpp
+	<iostream>
+	<stack>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1512280772 source:f:\c\dosbox\disk_c\ds_test3_1_dfs&bfs\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<stack>
+	"dfqueue.h"
+
+1512205152 source:f:\c\dosbox\disk_c\ds_test3_1_dfs&bfs\dfqueue.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1512205202 f:\c\dosbox\disk_c\ds_test3_1_dfs&bfs\dfqueue.h
+

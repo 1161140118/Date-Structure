@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1513094594 source:f:\c\dosbox\disk_c\ds_islands\main.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+

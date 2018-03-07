@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508513543 source:f:\c\dosbox\disk_c\test_float\main.c
+	<stdio.h>
+	<stdlib.h>
+

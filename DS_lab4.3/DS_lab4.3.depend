@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1514557137 source:f:\c\dosbox\disk_c\ds_lab4.3\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+	<ctime>
+
